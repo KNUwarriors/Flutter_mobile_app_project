@@ -1,4 +1,4 @@
-# project0203
+# Mobile app project using Flutter
 
 A new Flutter project.
 
