@@ -1,1 +1,5 @@
+![image](https://github.com/KNUwarriors/Flutter_mobile_app_project/assets/81695293/accbe005-e946-421b-af59-ccc0ff340af7)
 ![image](https://github.com/KNUwarriors/Flutter_mobile_app_project/assets/81695293/ba61b340-fb47-4e69-97d9-029c44725079)
+![image](https://github.com/KNUwarriors/Flutter_mobile_app_project/assets/81695293/998861f9-c1c3-4d14-bf46-7bf1bc1aef97)
+![image](https://github.com/KNUwarriors/Flutter_mobile_app_project/assets/81695293/c75d2c7a-eed9-4d62-9c80-d8655fa5fd16)
+![image](https://github.com/KNUwarriors/Flutter_mobile_app_project/assets/81695293/f54752c4-aa76-403c-b6b8-ecdf10697617)
