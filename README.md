@@ -1,1 +1,3 @@
-![image](https://github.com/KNUwarriors/Flutter_mobile_app_project/assets/81695293/2aa75ab1-3517-4b6b-a60b-90e87a49c3cf)
+<svg width="2441" height="1293" viewBox="0 0 2441 1293" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="2441" height="1293" fill="white"/>
+</svg>
